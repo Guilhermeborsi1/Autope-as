@@ -11,5 +11,6 @@ namespace Autopeças.EF
         public string Nome { get; set; }
         public string Carro { get; set; }
         public string Idade { get; set; }
+        public string CPF_Nota { get; set; }
     }
 }

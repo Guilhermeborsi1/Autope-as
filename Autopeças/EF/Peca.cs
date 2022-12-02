@@ -11,5 +11,6 @@ namespace Autopeças.EF
         public string NomePeça { get; set; }
         public string Categoria { get; set; }
         public int Valor { get; set; }
+        public DateTime Data_fabricação { get; set; }
     }
 }
